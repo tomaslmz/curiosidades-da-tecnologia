@@ -3,7 +3,7 @@
     src: url(./fontes/idroid.otf);
 }
 
-@media screen and (min-width: 880px) {
+@media (min-width: 880px) {
     body {
         margin: 0px;
         background-color: #C5EBD6;
@@ -164,7 +164,7 @@
     }
 }
 
-@media screen and (max-width: 879px) {
+@media (max-width: 879px) {
 
     img#imagem1 {
         background: url(imagens/dan-droids-pq.png);
